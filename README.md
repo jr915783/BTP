@@ -32,7 +32,7 @@
 6. **Processos**: Execução da aplicação em processos sem estado, que podem ser facilmente iniciados ou parados.
 
 
-
+.
 
 
 
